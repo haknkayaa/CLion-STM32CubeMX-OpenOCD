@@ -52,7 +52,7 @@ I will continue with very simple project settings for LED blinking.
 
 ![image](docs/imgs/project4.PNG)
 
-- In the following step, **High Speed ​​Clock (HSE) :** for **System Core** > **RCC** should be changed to ``Crystal/Ceramic Resonator``.
+- In the following step, **System Core** > **RCC** > **High Speed ​​Clock (HSE) :**  for should be changed to ``Crystal/Ceramic Resonator``.
 
 ![image](docs/imgs/project5.PNG)
 
