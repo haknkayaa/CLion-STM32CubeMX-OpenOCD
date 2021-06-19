@@ -1,7 +1,5 @@
 For [Turkish](README-tr.md)
 
-**If you found it useful, you can provide support by "Star" this repo.**
-
 # Embedded System Development on CLion IDE (CLion, STM32CubeMX, Debugger(OpenOCD, GDB ), STLINK-v2)
 
 This repo is embedded in the STM32CubeMX framework on the JetBrains CLion IDE
@@ -164,3 +162,7 @@ You can find it by searching the internet.
 I am attaching [here](STM32F103.svd) for STM32F103C8.
 
 ![image](docs/gifs/debugger.gif)
+
+**If you found it useful, you can provide support by "Star" this repo.**
+
+Hakan Kaya - mail@hakankaya.kim
