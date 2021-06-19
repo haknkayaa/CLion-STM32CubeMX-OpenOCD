@@ -1,7 +1,5 @@
 For [English](README.md)
 
-**Yararlı bulduysanız bu repoyu "Star"layarak destek sağlayabilirsiniz.**
-
 # CLion IDE üzerinde Gömülü Sistem Geliştirme (CLion, STM32CubeMX, Debugger(OpenOCD, GDB ), STLINK-v2)
 
 Bu repo JetBrains CLion IDE üzerinde STM32CubeMX çerçevesinde gömülü sistem 
@@ -164,3 +162,7 @@ ihtiyacınız vardır. İnternet üzerinde arama yaparak bulabilirsiniz.
 STM32F103C8 için [buraya](STM32F103.svd) ekliyorum.
 
 ![image](docs/gifs/debugger.gif)
+
+**Yararlı bulduysanız bu repoyu "Star"layarak destek sağlayabilirsiniz.**
+
+Hakan Kaya - mail@hakankaya.kim
