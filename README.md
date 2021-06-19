@@ -12,7 +12,7 @@ The system is a guide for developing projects.
 - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html?sc=stm32cubemx) (Tested with Version 6.2.1)
 - [MinGW64](http://mingw-w64.org/) (Tested with Version MinGW-W64-builds-4.3.5)
 - [OpenOCD](http://openocd.org/) (Tested with xPack OpenOCD v0.11.0-1)
-- [GNU Arm Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) (Test with 10-2020-q4-major)
+- [GNU Arm Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) (Tested with 10-2020-q4-major)
 
 
 ## Create a New Project
