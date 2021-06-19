@@ -1,4 +1,8 @@
-# CLion IDE üzerinde Gömülü Sistem Geliştirme (CLion, STM32CubeMX, Debugger(OpenOCD, GDB, ))
+For [English](README.md)
+
+**Yararlı bulduysanız bu repoyu "Star"layarak destek sağlayabilirsiniz.**
+
+# CLion IDE üzerinde Gömülü Sistem Geliştirme (CLion, STM32CubeMX, Debugger(OpenOCD, GDB ), STLINK-v2)
 
 Bu repo JetBrains CLion IDE üzerinde STM32CubeMX çerçevesinde gömülü sistem 
 projeleri geliştirmek için kılavuz niteliğindedir.
