@@ -1,3 +1,3 @@
 # CLion-STM32CubeMX-OpenOCD
 
-For
+For [Türkçe](README-tr.md)
