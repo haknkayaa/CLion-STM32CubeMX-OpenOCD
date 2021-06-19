@@ -135,7 +135,7 @@ main.c içerisine basit bir led yakıp söndürme kodu ekledim;
       HAL_Delay(200);
   }
   /* USER CODE END 3 */
-}
+
 
 ````
 
